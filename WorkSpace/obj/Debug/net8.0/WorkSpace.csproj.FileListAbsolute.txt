@@ -1,0 +1,14 @@
+G:\LINQ\vid1-2\WorkSpace\bin\Debug\net8.0\WorkSpace.exe
+G:\LINQ\vid1-2\WorkSpace\bin\Debug\net8.0\WorkSpace.deps.json
+G:\LINQ\vid1-2\WorkSpace\bin\Debug\net8.0\WorkSpace.runtimeconfig.json
+G:\LINQ\vid1-2\WorkSpace\bin\Debug\net8.0\WorkSpace.dll
+G:\LINQ\vid1-2\WorkSpace\bin\Debug\net8.0\WorkSpace.pdb
+G:\LINQ\vid1-2\WorkSpace\obj\Debug\net8.0\WorkSpace.GeneratedMSBuildEditorConfig.editorconfig
+G:\LINQ\vid1-2\WorkSpace\obj\Debug\net8.0\WorkSpace.AssemblyInfoInputs.cache
+G:\LINQ\vid1-2\WorkSpace\obj\Debug\net8.0\WorkSpace.AssemblyInfo.cs
+G:\LINQ\vid1-2\WorkSpace\obj\Debug\net8.0\WorkSpace.csproj.CoreCompileInputs.cache
+G:\LINQ\vid1-2\WorkSpace\obj\Debug\net8.0\WorkSpace.dll
+G:\LINQ\vid1-2\WorkSpace\obj\Debug\net8.0\refint\WorkSpace.dll
+G:\LINQ\vid1-2\WorkSpace\obj\Debug\net8.0\WorkSpace.pdb
+G:\LINQ\vid1-2\WorkSpace\obj\Debug\net8.0\WorkSpace.genruntimeconfig.cache
+G:\LINQ\vid1-2\WorkSpace\obj\Debug\net8.0\ref\WorkSpace.dll
